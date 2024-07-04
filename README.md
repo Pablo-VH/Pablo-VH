@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C**
 
+- 📖 I'm currebtly studying at **42 Madrid**
+
 - 📫 How to reach me **pablovicentehernandez.7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
