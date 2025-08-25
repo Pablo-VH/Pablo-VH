@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
-- 🔭 I’m currently working on **Cub3D**
+- 🔭 I’m currently working on **C++**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C++**
 
 - 📖 I'm currebtly studying at **42 Madrid**
 
